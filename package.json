@@ -1,0 +1,35 @@
+{
+  "name": "war_fer_s_62_es6_react_podstawy",
+  "version": "1.0.0",
+  "description": "![Coders-Lab-1920px-no-background](https://user-images.githubusercontent.com/30623667/104709387-2b7ac180-571f-11eb-9b94-517aa6d501c9.png)",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot -d",
+    "build": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maciekm88/WAR_FER_S_62_ES6_React_Podstawy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maciekm88/WAR_FER_S_62_ES6_React_Podstawy/issues"
+  },
+  "homepage": "https://github.com/maciekm88/WAR_FER_S_62_ES6_React_Podstawy#readme",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.14.5",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7",
+    "webpack-dev-server": "^3.8.0"
+  },
+  "dependencies": {
+    "date-fns": "^2.25.0",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}
